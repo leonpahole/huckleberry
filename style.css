@@ -70,7 +70,7 @@ main {
   padding: 16px 32px;
   background: hsl(45deg, 100%, 50%);
   border-bottom: 8px solid hsl(45deg, 100%, 40%);
-  margin-left: -24px;
+  margin-left: -32px;
   margin-top: -16px;
   width: fit-content;
 }
